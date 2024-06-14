@@ -169,12 +169,12 @@ if st.session_state.page == 'Home':
 elif st.session_state.page == 'Student Login':
     st.header("Student Login Page")
     data = {
+            '59' : 'David L',
             '31' : 'Kamlesh C',
             '59' : 'David L',
             '19' : 'Daniel S',
             '29' : 'Daniel P',
             '42' : 'James H',
-            '59' : 'David L',
             '97' : 'Rahul G',
             '7397' : 'mayank s'
     }
