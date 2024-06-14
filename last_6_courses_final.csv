@@ -1,0 +1,140 @@
+CourseName,ReviewerNameID,ReviewerName,CourseNameID,RatingStar,DateOfReview,CourseID,Unit,ReviewNumber,AvgStar,Level,Results
+Statistical Inference and Hypothesis Testing in Data Science Applications,29,Daniel P,477,5,2024-02-09,Statistical Inference and Hypothesis Testing in Data Science Applications,University of Colorado Boulder,37,4.7,Intermediate level,"Define a composite hypothesis and the level of significance for a test with a composite null hypothesis.
+Define a test statistic, level of significance, and the rejection region for a hypothesis test. Give the form of a rejection region.
+Perform tests concerning a true population variance.
+Compute the sampling distributions for the sample mean and sample minimum of the exponential distribution.
+"
+Statistical Inference for Estimation in Data Science,29,Daniel P,412,5,2024-01-28,Statistical Inference for Estimation in Data Science,University of Colorado Boulder,61,4.1,Intermediate level,"Identify characteristics of “good” estimators and be able to compare competing estimators.
+Construct sound estimators using the techniques of maximum likelihood and method of moments estimation.
+Construct and interpret confidence intervals for one and two population means, one and two population proportions, and a population variance.
+"
+Probability Theory: Foundation for Data Science,29,Daniel P,308,5,2024-01-13,Probability Theory: Foundation for Data Science,University of Colorado Boulder,152,4.5,Intermediate level,"Explain why probability is important to statistics and data science.
+See the relationship between conditional and independent events in a statistical experiment.
+Calculate the expectation and variance of several random variables and develop some intuition.
+"
+"Python for Data Science, AI & Development",29,Daniel P,5,1,2023-08-18,"Python for Data Science, AI & Development",IBM,35369,4.6,Beginner level,"Learn Python - the most popular programming language and for Data Science and Software Development.
+Apply Python programming logic Variables, Data Structures, Branching, Loops, Functions, Objects & Classes.
+Demonstrate proficiency in using Python libraries such as Pandas & Numpy, and developing code using Jupyter Notebooks.
+Access and web scrape data using APIs and Python libraries like Beautiful Soup. 
+"
+"Foundations: Data, Data, Everywhere",29,Daniel P,0,5,2023-07-04,"Foundations: Data, Data, Everywhere",Google,99239,4.8,Beginner level,"Define and explain key concepts involved in data analytics including data, data analysis, and data ecosystems.
+Conduct an analytical thinking self assessment giving specific examples of the application of analytical thinking.
+Discuss the role of spreadsheets, query languages, and data visualization tools in data analytics.
+Describe the role of a data analyst with specific reference to jobs.
+"
+"Foundations: Data, Data, Everywhere",29,Daniel P,0,5,2023-07-04,"Foundations: Data, Data, Everywhere",Google,99239,4.8,Beginner level,"Define and explain key concepts involved in data analytics including data, data analysis, and data ecosystems.
+Conduct an analytical thinking self assessment giving specific examples of the application of analytical thinking.
+Discuss the role of spreadsheets, query languages, and data visualization tools in data analytics.
+Describe the role of a data analyst with specific reference to jobs.
+"
+Supervised Machine Learning: Regression and Classification,19,Daniel S,13,3,2024-04-13,Supervised Machine Learning: Regression and Classification,DeepLearning.AI,18504,4.9,Beginner level,"Build machine learning models in Python using popular machine learning libraries NumPy & scikit-learn
+Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression
+"
+Supervised Machine Learning: Regression and Classification,19,Daniel S,13,3,2024-04-13,Supervised Machine Learning: Regression and Classification,DeepLearning.AI,18504,4.9,Beginner level,"Build machine learning models in Python using popular machine learning libraries NumPy & scikit-learn
+Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression
+"
+Generative AI: Introduction and Applications,19,Daniel S,198,2,2024-04-03,Generative AI: Introduction and Applications,IBM,364,4.6,Beginner level,"Describe generative AI and distinguish it from discriminative AI.
+Describe the capabilities of generative AI and its use cases in the real world.
+Identify the applications of generative AI in different sectors and industries.
+Explore common generative AI models and tools for text, code, image, audio, and video generation.
+"
+Ask Questions to Make Data-Driven Decisions,19,Daniel S,9,2,2024-03-26,Ask Questions to Make Data-Driven Decisions,Google,30448,4.7,Beginner level,"Explain how the problem-solving road map applies to typical analysis scenarios. 
+Discuss the use of data in the decision-making process.
+Demonstrate the use of spreadsheets to complete basic tasks of the data analyst including entering and organizing data.
+Describe the key ideas associated with structured thinking.
+"
+Ask Questions to Make Data-Driven Decisions,19,Daniel S,9,2,2024-03-26,Ask Questions to Make Data-Driven Decisions,Google,30448,4.7,Beginner level,"Explain how the problem-solving road map applies to typical analysis scenarios. 
+Discuss the use of data in the decision-making process.
+Demonstrate the use of spreadsheets to complete basic tasks of the data analyst including entering and organizing data.
+Describe the key ideas associated with structured thinking.
+"
+Data Analysis with Tableau,19,Daniel S,507,2,2024-02-11,Data Analysis with Tableau,Tableau Learning Partner,22,4.1,Beginner level,"Apply Tableau techniques to manipulate and prepare data for analysis.
+Perform exploratory data analysis using Tableau and report insights using descriptive statistics and visualizations.
+ Identify the benefits of the analytics feature in Tableau by utilizing this tool versus manually calculating the analytics.
+"
+Prompt Engineering for ChatGPT,59,David L,45,4,2024-01-30,Prompt Engineering for ChatGPT,Vanderbilt University,2543,4.8,Beginner level,"How to apply prompt engineering to effectively work with large language models, like ChatGPT
+How to use prompt patterns to tap into powerful capabilities within large language models
+How to create complex prompt-based applications for your life, business, or education
+"
+Ask Questions to Make Data-Driven Decisions,59,David L,9,1,2023-12-17,Ask Questions to Make Data-Driven Decisions,Google,30448,4.7,Beginner level,"Explain how the problem-solving road map applies to typical analysis scenarios. 
+Discuss the use of data in the decision-making process.
+Demonstrate the use of spreadsheets to complete basic tasks of the data analyst including entering and organizing data.
+Describe the key ideas associated with structured thinking.
+"
+AI and Public Health,59,David L,327,5,2023-08-04,AI and Public Health,DeepLearning.AI,151,4.7,Beginner level,
+"Foundations: Data, Data, Everywhere",59,David L,0,5,2023-06-02,"Foundations: Data, Data, Everywhere",Google,99239,4.8,Beginner level,"Define and explain key concepts involved in data analytics including data, data analysis, and data ecosystems.
+Conduct an analytical thinking self assessment giving specific examples of the application of analytical thinking.
+Discuss the role of spreadsheets, query languages, and data visualization tools in data analytics.
+Describe the role of a data analyst with specific reference to jobs.
+"
+Databases and SQL for Data Science with Python,59,David L,22,5,2023-04-29,Databases and SQL for Data Science with Python,IBM,19323,4.6,Beginner level,"Analyze data within a database using SQL and Python.
+Create a relational database and work with multiple tables using DDL commands. 
+Construct basic to intermediate level SQL queries using DML commands. 
+Compose more powerful queries with advanced SQL techniques like views, transactions, stored procedures, and joins. 
+"
+The Structured Query Language (SQL),59,David L,158,5,2023-01-17,The Structured Query Language (SQL),University of Colorado Boulder,605,4.7,Beginner level,"The origins and historical basis for SQL
+Standard SQL  use and syntax
+How to code SQL queries in order to analyze data stored in relational databases 
+"
+Data Ecosystem,42,James H,488,5,2024-02-19,Data Ecosystem,Tableau Learning Partner,46,4.7,Beginner level," Describe the purpose and applications of tabular data, databases, data warehouses, data lakes, and ETLs. 
+ Describe the importance of data quality and data governance in relation to data management. 
+ Identify the principles that form the foundation of modern data architecture. 
+"
+Supervised Machine Learning: Regression and Classification,42,James H,13,5,2023-09-15,Supervised Machine Learning: Regression and Classification,DeepLearning.AI,18504,4.9,Beginner level,"Build machine learning models in Python using popular machine learning libraries NumPy & scikit-learn
+Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression
+"
+Share Data Through the Art of Visualization,42,James H,34,1,2023-07-30,Share Data Through the Art of Visualization,Google,8353,4.6,Beginner level,"Describe the use of data visualizations to talk about data and the results of data analysis.
+Identify Tableau as a data visualization tool and understand its uses.
+Explain what data driven stories are including reference to their importance and their attributes.
+Explain principles and practices associated with effective presentations.
+"
+Prepare Data for Exploration,42,James H,17,4,2023-07-20,Prepare Data for Exploration,Google,19054,4.8,Beginner level,"Explain what factors to consider when making decisions about data collection.
+Discuss the difference between biased and unbiased data.
+Describe databases with references to their functions and components.
+Describe best practices for organizing data.
+"
+"Foundations: Data, Data, Everywhere",42,James H,0,5,2022-12-29,"Foundations: Data, Data, Everywhere",Google,99239,4.8,Beginner level,"Define and explain key concepts involved in data analytics including data, data analysis, and data ecosystems.
+Conduct an analytical thinking self assessment giving specific examples of the application of analytical thinking.
+Discuss the role of spreadsheets, query languages, and data visualization tools in data analytics.
+Describe the role of a data analyst with specific reference to jobs.
+"
+"Foundations: Data, Data, Everywhere",42,James H,0,5,2022-12-29,"Foundations: Data, Data, Everywhere",Google,99239,4.8,Beginner level,"Define and explain key concepts involved in data analytics including data, data analysis, and data ecosystems.
+Conduct an analytical thinking self assessment giving specific examples of the application of analytical thinking.
+Discuss the role of spreadsheets, query languages, and data visualization tools in data analytics.
+Describe the role of a data analyst with specific reference to jobs.
+"
+Natural Language Processing with Classification and Vector Spaces,31,Kamlesh C,57,5,2020-08-30,Natural Language Processing with Classification and Vector Spaces,DeepLearning.AI,4274,4.6,Intermediate level,"Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
+"
+Text Mining and Analytics,31,Kamlesh C,172,5,2020-08-23,Text Mining and Analytics,University of Illinois at Urbana-Champaign,722,4.5,,
+Create Interactive Dashboards with Streamlit and Python,31,Kamlesh C,236,5,2020-08-05,Create Interactive Dashboards with Streamlit and Python,Coursera Project Network,384,4.7,Intermediate level,"Build interactive data dashboards with Streamlit and Python
+Use Pandas for data manipulation in data science workflows
+Create interactive plots with Plotly Python
+"
+Data Visualization,31,Kamlesh C,113,5,2020-08-03,Data Visualization,University of Illinois at Urbana-Champaign,1363,4.5,,
+Deploy Models with TensorFlow Serving and Flask,31,Kamlesh C,323,5,2020-07-31,Deploy Models with TensorFlow Serving and Flask,Coursera Project Network,198,4.5,Intermediate level,"Serve a TensorFlow model with TensorFlow Serving and Docker.
+Create a web application with Flask to work as an interface to a served model.
+"
+Big Data Integration and Processing,31,Kamlesh C,80,5,2020-07-31,Big Data Integration and Processing,University of California San Diego,2395,4.4,Beginner level,
+"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",97,Rahul G,3,5,2024-04-09,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",DeepLearning.AI,62856,4.9,Intermediate level,
+"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",97,Rahul G,3,5,2024-04-09,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",DeepLearning.AI,62856,4.9,Intermediate level,
+"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",97,Rahul G,3,5,2024-04-09,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",DeepLearning.AI,62856,4.9,Intermediate level,
+Neural Networks and Deep Learning,97,Rahul G,2,5,2023-08-25,Neural Networks and Deep Learning,DeepLearning.AI,120907,4.9,Intermediate level,
+Neural Networks and Deep Learning,97,Rahul G,2,5,2023-08-25,Neural Networks and Deep Learning,DeepLearning.AI,120907,4.9,Intermediate level,
+Neural Networks and Deep Learning,97,Rahul G,2,5,2023-08-25,Neural Networks and Deep Learning,DeepLearning.AI,120907,4.9,Intermediate level,
+Data Analysis and Presentation Skills: the PwC Approach Final Project,7397,mayank s,281,1,2022-03-25,Data Analysis and Presentation Skills: the PwC Approach Final Project,PwC,246,4.7,Beginner level,
+Business Metrics for Data-Driven Companies,7397,mayank s,33,4,2020-02-12,Business Metrics for Data-Driven Companies,Duke University,8345,4.6,,
+Data Science Methodology,7397,mayank s,24,5,2019-10-23,Data Science Methodology,IBM,19946,4.6,Beginner level,"Describe what a data science methodology is and why data scientists need a methodology.
+Apply the six stages in the Cross-Industry Process for Data Mining (CRISP-DM) methodology to analyze a case study.
+Evaluate which analytic model is appropriate among predictive, descriptive, and classification models used to analyze a case study.
+Determine appropriate data sources for your data science analysis methodology.
+"
+What is Data Science?,7397,mayank s,1,5,2019-09-11,What is Data Science?,IBM,68152,4.7,Beginner level,"Define data science and its importance in today’s data-driven world.
+Describe the various paths that can lead to a career in data science.
+ Summarize  advice given by seasoned data science professionals to data scientists who are just starting out.
+Explain why data science is considered the most in-demand job in the 21st century. 
+"
+The Data Scientist’s Toolbox,7397,mayank s,4,5,2017-06-26,The Data Scientist’s Toolbox,Johns Hopkins University,33837,4.6,,"Set up R, R-Studio, Github and other useful tools
+Understand the data, problems, and tools that data analysts use
+Explain essential study design concepts
+Create a Github repository
+"

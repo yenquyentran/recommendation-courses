@@ -1,0 +1,132 @@
+CourseName,ReviewerNameID,ReviewerName,CourseNameID,rating,CourseID,Unit,ReviewNumber,AvgStar,Level,Results
+Data Manipulation and Management using MYSQL Workbench,29,Daniel P,727,7.8043814,Data Manipulation and Management using MYSQL Workbench,Coursera Project Network,10,4.3,Beginner level,"You will be able to select data from tables with cutom filter by different SQL keywords.
+You will be able to create a query with aggregate function and groupingby statement and how to join between tables with different properties and data
+"
+Transfer Learning for Food Classification,29,Daniel P,537,7.277897,Transfer Learning for Food Classification,Coursera Project Network,65,4.6,Beginner level,"Understand the theory and intuition behind Convolutional Neural Networks (CNNs) and transfer learning
+Build and train a Deep Learning Model using Pre-Trained InceptionResnetV2
+Assess the performance of trained CNN using various Key performance indicators 
+"
+Advanced Clinical Data Science,29,Daniel P,573,6.8628454,Advanced Clinical Data Science,University of Colorado System,21,4.8,Intermediate level,
+Operational Analytics with Microsoft Azure Synapse Analytics,29,Daniel P,759,6.821029,Operational Analytics with Microsoft Azure Synapse Analytics,Microsoft,19,4.5,Intermediate level,"How to perform operational analytics against Azure Cosmos DB using the Azure Synapse Link feature within Azure Synapse Analytics
+How to query Azure Cosmos DB with SQL Serverless/Apache Spark for Azure Synapse Analytics 
+How to configure and enable Azure Synapse Link to interact with Azure Cosmos DB
+How to use hybrid transactional and analytical processing to perform operational analytics with Azure Synapse Analytics 
+"
+Statistical Forecasting Techniques in Google Sheets,29,Daniel P,661,6.6701818,Statistical Forecasting Techniques in Google Sheets,Coursera Project Network,27,4.4,Beginner level,"Identify use cases for forecasting growth
+Understand and recognize linear and exponential growth   
+Conduct exponential regression with a linear model
+"
+Statistical Forecasting Techniques in Google Sheets,19,Daniel S,661,7.0177293,Statistical Forecasting Techniques in Google Sheets,Coursera Project Network,27,4.4,Beginner level,"Identify use cases for forecasting growth
+Understand and recognize linear and exponential growth   
+Conduct exponential regression with a linear model
+"
+Extract Text Data with Python and Regex,19,Daniel S,563,6.969286,Extract Text Data with Python and Regex,Coursera Project Network,20,4.4,Intermediate level,"Learn what Regular Expression is and how it works
+Learn how to use regular expressions for text data cleaning
+Learn how regular expressions can be useful for text mining
+"
+Titanic Survival Prediction Using Machine Learning,19,Daniel S,633,6.8938756,Titanic Survival Prediction Using Machine Learning,Coursera Project Network,12,4.8,Beginner level,"Understand the theory and intuition behind logistic regression classifier models
+Build, train and test a logistic regression classifier model in Scikit-Learn 
+Perform data cleaning, feature engineering and visualization
+"
+Data Manipulation and Management using MYSQL Workbench,19,Daniel S,727,6.8321934,Data Manipulation and Management using MYSQL Workbench,Coursera Project Network,10,4.3,Beginner level,"You will be able to select data from tables with cutom filter by different SQL keywords.
+You will be able to create a query with aggregate function and groupingby statement and how to join between tables with different properties and data
+"
+ANOVA and Experimental Design,19,Daniel S,599,6.809506,ANOVA and Experimental Design,University of Colorado Boulder,13,3.9,Intermediate level,"Identify and interpret the two-way ANOVA (and ANCOVA) model(s) as a linear regression model.
+Use the two-way ANOVA and ANCOVA models to answer research questions using real data.
+Define and apply the concepts of replication, repeated measures, and full factorial design in the context of two-way ANOVA.
+"
+Operational Analytics with Microsoft Azure Synapse Analytics,59,David L,759,8.400519,Operational Analytics with Microsoft Azure Synapse Analytics,Microsoft,19,4.5,Intermediate level,"How to perform operational analytics against Azure Cosmos DB using the Azure Synapse Link feature within Azure Synapse Analytics
+How to query Azure Cosmos DB with SQL Serverless/Apache Spark for Azure Synapse Analytics 
+How to configure and enable Azure Synapse Link to interact with Azure Cosmos DB
+How to use hybrid transactional and analytical processing to perform operational analytics with Azure Synapse Analytics 
+"
+Statistical Forecasting Techniques in Google Sheets,59,David L,661,8.179133,Statistical Forecasting Techniques in Google Sheets,Coursera Project Network,27,4.4,Beginner level,"Identify use cases for forecasting growth
+Understand and recognize linear and exponential growth   
+Conduct exponential regression with a linear model
+"
+Data Manipulation and Management using MYSQL Workbench,59,David L,727,7.679888,Data Manipulation and Management using MYSQL Workbench,Coursera Project Network,10,4.3,Beginner level,"You will be able to select data from tables with cutom filter by different SQL keywords.
+You will be able to create a query with aggregate function and groupingby statement and how to join between tables with different properties and data
+"
+Generalized Linear Models and Nonparametric Regression,59,David L,612,7.476952,Generalized Linear Models and Nonparametric Regression,University of Colorado Boulder,14,4.4,Intermediate level,"Describe how to generalize the linear model framework to accommodate data that is not suitable for the standard linear regression model.
+State some advantages and disadvantages of (generalized) additive models.
+Describe how an additive model can be generalized to incorporate non-normal response variables (i.e., define a generalized additive model).
+"
+"Extract, Transform, and Load Data",59,David L,584,7.318918,"Extract, Transform, and Load Data",CertNexus,21,4.8,Intermediate level,
+Titanic Survival Prediction Using Machine Learning,42,James H,633,8.12364,Titanic Survival Prediction Using Machine Learning,Coursera Project Network,12,4.8,Beginner level,"Understand the theory and intuition behind logistic regression classifier models
+Build, train and test a logistic regression classifier model in Scikit-Learn 
+Perform data cleaning, feature engineering and visualization
+"
+Simple Linear Regression for the Absolute Beginner,42,James H,630,7.6190248,Simple Linear Regression for the Absolute Beginner,Coursera Project Network,21,4.7,Beginner level,"Understand the theory and intuition behind simple linear regression models
+Build, train and test a simple linear regression model in Sklearn 
+Perform data cleaning, feature engineering and visualization
+"
+Extract Text Data with Python and Regex,42,James H,563,7.617503,Extract Text Data with Python and Regex,Coursera Project Network,20,4.4,Intermediate level,"Learn what Regular Expression is and how it works
+Learn how to use regular expressions for text data cleaning
+Learn how regular expressions can be useful for text mining
+"
+Operational Analytics with Microsoft Azure Synapse Analytics,42,James H,759,7.4622364,Operational Analytics with Microsoft Azure Synapse Analytics,Microsoft,19,4.5,Intermediate level,"How to perform operational analytics against Azure Cosmos DB using the Azure Synapse Link feature within Azure Synapse Analytics
+How to query Azure Cosmos DB with SQL Serverless/Apache Spark for Azure Synapse Analytics 
+How to configure and enable Azure Synapse Link to interact with Azure Cosmos DB
+How to use hybrid transactional and analytical processing to perform operational analytics with Azure Synapse Analytics 
+"
+Data Manipulation and Management using MYSQL Workbench,42,James H,727,7.4222875,Data Manipulation and Management using MYSQL Workbench,Coursera Project Network,10,4.3,Beginner level,"You will be able to select data from tables with cutom filter by different SQL keywords.
+You will be able to create a query with aggregate function and groupingby statement and how to join between tables with different properties and data
+"
+Data Manipulation and Management using MYSQL Workbench,31,Kamlesh C,727,7.9594364,Data Manipulation and Management using MYSQL Workbench,Coursera Project Network,10,4.3,Beginner level,"You will be able to select data from tables with cutom filter by different SQL keywords.
+You will be able to create a query with aggregate function and groupingby statement and how to join between tables with different properties and data
+"
+Titanic Survival Prediction Using Machine Learning,31,Kamlesh C,633,7.634564,Titanic Survival Prediction Using Machine Learning,Coursera Project Network,12,4.8,Beginner level,"Understand the theory and intuition behind logistic regression classifier models
+Build, train and test a logistic regression classifier model in Scikit-Learn 
+Perform data cleaning, feature engineering and visualization
+"
+Statistical Forecasting Techniques in Google Sheets,31,Kamlesh C,661,7.5505023,Statistical Forecasting Techniques in Google Sheets,Coursera Project Network,27,4.4,Beginner level,"Identify use cases for forecasting growth
+Understand and recognize linear and exponential growth   
+Conduct exponential regression with a linear model
+"
+Generalized Linear Models and Nonparametric Regression,31,Kamlesh C,612,7.541539,Generalized Linear Models and Nonparametric Regression,University of Colorado Boulder,14,4.4,Intermediate level,"Describe how to generalize the linear model framework to accommodate data that is not suitable for the standard linear regression model.
+State some advantages and disadvantages of (generalized) additive models.
+Describe how an additive model can be generalized to incorporate non-normal response variables (i.e., define a generalized additive model).
+"
+Linear Algebra: Orthogonality and Diagonalization,31,Kamlesh C,751,7.5112734,Linear Algebra: Orthogonality and Diagonalization,Johns Hopkins University,11,4.9,Intermediate level,
+Statistical Forecasting Techniques in Google Sheets,97,Rahul G,661,7.7630734,Statistical Forecasting Techniques in Google Sheets,Coursera Project Network,27,4.4,Beginner level,"Identify use cases for forecasting growth
+Understand and recognize linear and exponential growth   
+Conduct exponential regression with a linear model
+"
+Operational Analytics with Microsoft Azure Synapse Analytics,97,Rahul G,759,7.6982107,Operational Analytics with Microsoft Azure Synapse Analytics,Microsoft,19,4.5,Intermediate level,"How to perform operational analytics against Azure Cosmos DB using the Azure Synapse Link feature within Azure Synapse Analytics
+How to query Azure Cosmos DB with SQL Serverless/Apache Spark for Azure Synapse Analytics 
+How to configure and enable Azure Synapse Link to interact with Azure Cosmos DB
+How to use hybrid transactional and analytical processing to perform operational analytics with Azure Synapse Analytics 
+"
+Titanic Survival Prediction Using Machine Learning,97,Rahul G,633,7.627368,Titanic Survival Prediction Using Machine Learning,Coursera Project Network,12,4.8,Beginner level,"Understand the theory and intuition behind logistic regression classifier models
+Build, train and test a logistic regression classifier model in Scikit-Learn 
+Perform data cleaning, feature engineering and visualization
+"
+ANOVA and Experimental Design,97,Rahul G,599,7.512226,ANOVA and Experimental Design,University of Colorado Boulder,13,3.9,Intermediate level,"Identify and interpret the two-way ANOVA (and ANCOVA) model(s) as a linear regression model.
+Use the two-way ANOVA and ANCOVA models to answer research questions using real data.
+Define and apply the concepts of replication, repeated measures, and full factorial design in the context of two-way ANOVA.
+"
+Data Manipulation and Management using MYSQL Workbench,97,Rahul G,727,7.395107,Data Manipulation and Management using MYSQL Workbench,Coursera Project Network,10,4.3,Beginner level,"You will be able to select data from tables with cutom filter by different SQL keywords.
+You will be able to create a query with aggregate function and groupingby statement and how to join between tables with different properties and data
+"
+Data Manipulation and Management using MYSQL Workbench,7397,mayank s,727,8.525557,Data Manipulation and Management using MYSQL Workbench,Coursera Project Network,10,4.3,Beginner level,"You will be able to select data from tables with cutom filter by different SQL keywords.
+You will be able to create a query with aggregate function and groupingby statement and how to join between tables with different properties and data
+"
+Generative AI: Enhance your Data Analytics Career,7397,mayank s,741,7.2075496,Generative AI: Enhance your Data Analytics Career,IBM,14,4.6,Intermediate level,"Describe how you can use Generative AI tools and techniques in the context of data analytics across industries
+Implement various data analytic processes such as data preparation, analysis, visualization and storytelling using Generative AI tools
+Evaluate real-world case studies showcasing the successful application of Generative AI in deriving meaningful insights 
+ Analyze the ethical considerations and challenges associated with using Generative AI in data analytics
+"
+Generative AI: Elevate Your Data Science Career,7397,mayank s,613,7.062822,Generative AI: Elevate Your Data Science Career,IBM,20,4.8,Intermediate level," Leverage generative AI tools, like GPT 3.5, ChatCSV, and tomat.ai, available to Data Scientists for querying and preparing data  
+Examine real-world scenarios where generative AI can enhance data science workflows
+Practice generative AI skills in hand-on labs and projects by generating and augmenting datasets for specific use cases
+Apply generative AI techniques in the development and refinement of machine learning models
+"
+Statistical Forecasting Techniques in Google Sheets,7397,mayank s,661,6.7792044,Statistical Forecasting Techniques in Google Sheets,Coursera Project Network,27,4.4,Beginner level,"Identify use cases for forecasting growth
+Understand and recognize linear and exponential growth   
+Conduct exponential regression with a linear model
+"
+Operational Analytics with Microsoft Azure Synapse Analytics,7397,mayank s,759,6.682355,Operational Analytics with Microsoft Azure Synapse Analytics,Microsoft,19,4.5,Intermediate level,"How to perform operational analytics against Azure Cosmos DB using the Azure Synapse Link feature within Azure Synapse Analytics
+How to query Azure Cosmos DB with SQL Serverless/Apache Spark for Azure Synapse Analytics 
+How to configure and enable Azure Synapse Link to interact with Azure Cosmos DB
+How to use hybrid transactional and analytical processing to perform operational analytics with Azure Synapse Analytics 
+"
